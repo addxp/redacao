@@ -1,2 +1,0 @@
-# redacao
-Trabalho de redaçao
